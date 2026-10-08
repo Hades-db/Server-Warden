@@ -76,8 +76,3 @@ CHECK_INTERVAL=300
 ```bash
 docker compose up -d --build
 ```
-
-5. Production Cluster Logs Verification
-```bash
-docker compose logs -f server_wallter
-```
